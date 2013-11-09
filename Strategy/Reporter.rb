@@ -1,4 +1,3 @@
-
 class Reporter
     attr_reader :title, :text
     attr_accessor :formatter
@@ -10,6 +9,6 @@ class Reporter
     end
 
     def output_report
-        @formatter.output_report(@title, @text)
+        @formatter.output_report(self)
     end
 end

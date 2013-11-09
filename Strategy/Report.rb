@@ -1,5 +1,4 @@
 require './Reporter'
-require './Formatter'
 require './HTMLFormatter'
 require './PlainTextFormatter'
 
