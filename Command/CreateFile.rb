@@ -1,6 +1,10 @@
 # Command Pattern
 # 何を行うのかの決定と、その実行を分離できる
 # 下記の例のように少しリッチなCLIをつくるときなどにつかえる
+#
+# Observer Pattern と似ている
+# * Observer は状態を扱い、
+# * Command は何を行うかを扱う
 
 require 'FileUtils'
 
