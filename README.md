@@ -11,4 +11,4 @@ Quick reference
 * Delegate objects
  * Adapter pattern:   Wrap to change interface
  * Proxy pattern:     Wrap to change control
- * Decolator pattern: Wrap to add layerd features
+ * Decorator pattern: Wrap to add layerd features
